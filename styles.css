@@ -1,0 +1,32 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #336B87;
+}
+
+header {
+    background: #90AFC5;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Custom styles for profile card */
+.card {
+    border-radius: 15px;
+}
+
+img.rounded-circle {
+    border: 5px solid #ffffff;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #2A3132;
+    color: white;
+    padding: 10px 0;
+}
